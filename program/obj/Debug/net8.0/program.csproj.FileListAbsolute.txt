@@ -1,0 +1,58 @@
+C:\Users\Артем\source\repos\lab_1\program\bin\Debug\net8.0\program.exe
+C:\Users\Артем\source\repos\lab_1\program\bin\Debug\net8.0\program.deps.json
+C:\Users\Артем\source\repos\lab_1\program\bin\Debug\net8.0\program.runtimeconfig.json
+C:\Users\Артем\source\repos\lab_1\program\bin\Debug\net8.0\program.dll
+C:\Users\Артем\source\repos\lab_1\program\bin\Debug\net8.0\program.pdb
+C:\Users\Артем\source\repos\lab_1\program\obj\Debug\net8.0\program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\source\repos\lab_1\program\obj\Debug\net8.0\program.AssemblyInfoInputs.cache
+C:\Users\Артем\source\repos\lab_1\program\obj\Debug\net8.0\program.AssemblyInfo.cs
+C:\Users\Артем\source\repos\lab_1\program\obj\Debug\net8.0\program.csproj.CoreCompileInputs.cache
+C:\Users\Артем\source\repos\lab_1\program\obj\Debug\net8.0\program.dll
+C:\Users\Артем\source\repos\lab_1\program\obj\Debug\net8.0\refint\program.dll
+C:\Users\Артем\source\repos\lab_1\program\obj\Debug\net8.0\program.pdb
+C:\Users\Артем\source\repos\lab_1\program\obj\Debug\net8.0\program.genruntimeconfig.cache
+C:\Users\Артем\source\repos\lab_1\program\obj\Debug\net8.0\ref\program.dll
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\lab_1\program\bin\Debug\net8.0\program.exe
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\lab_1\program\bin\Debug\net8.0\program.deps.json
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\lab_1\program\bin\Debug\net8.0\program.runtimeconfig.json
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\lab_1\program\bin\Debug\net8.0\program.dll
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\lab_1\program\bin\Debug\net8.0\program.pdb
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\lab_1\program\obj\Debug\net8.0\program.GeneratedMSBuildEditorConfig.editorconfig
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\lab_1\program\obj\Debug\net8.0\program.AssemblyInfoInputs.cache
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\lab_1\program\obj\Debug\net8.0\program.AssemblyInfo.cs
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\lab_1\program\obj\Debug\net8.0\program.csproj.CoreCompileInputs.cache
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\lab_1\program\obj\Debug\net8.0\program.dll
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\lab_1\program\obj\Debug\net8.0\refint\program.dll
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\lab_1\program\obj\Debug\net8.0\program.pdb
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\lab_1\program\obj\Debug\net8.0\program.genruntimeconfig.cache
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\lab_1\program\obj\Debug\net8.0\ref\program.dll
+D:\univer\2 курс\2 сем\Конструювання програмного забеспечення\lab_1\program\obj\Debug\net8.0\program.sourcelink.json
+C:\Users\чупакабрпа\OneDrive\Desktop\кпз\lab_1\program\bin\Debug\net8.0\program.exe
+C:\Users\чупакабрпа\OneDrive\Desktop\кпз\lab_1\program\bin\Debug\net8.0\program.deps.json
+C:\Users\чупакабрпа\OneDrive\Desktop\кпз\lab_1\program\bin\Debug\net8.0\program.runtimeconfig.json
+C:\Users\чупакабрпа\OneDrive\Desktop\кпз\lab_1\program\bin\Debug\net8.0\program.dll
+C:\Users\чупакабрпа\OneDrive\Desktop\кпз\lab_1\program\bin\Debug\net8.0\program.pdb
+C:\Users\чупакабрпа\OneDrive\Desktop\кпз\lab_1\program\obj\Debug\net8.0\program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\чупакабрпа\OneDrive\Desktop\кпз\lab_1\program\obj\Debug\net8.0\program.AssemblyInfoInputs.cache
+C:\Users\чупакабрпа\OneDrive\Desktop\кпз\lab_1\program\obj\Debug\net8.0\program.AssemblyInfo.cs
+C:\Users\чупакабрпа\OneDrive\Desktop\кпз\lab_1\program\obj\Debug\net8.0\program.csproj.CoreCompileInputs.cache
+C:\Users\чупакабрпа\OneDrive\Desktop\кпз\lab_1\program\obj\Debug\net8.0\program.sourcelink.json
+C:\Users\чупакабрпа\OneDrive\Desktop\кпз\lab_1\program\obj\Debug\net8.0\program.dll
+C:\Users\чупакабрпа\OneDrive\Desktop\кпз\lab_1\program\obj\Debug\net8.0\refint\program.dll
+C:\Users\чупакабрпа\OneDrive\Desktop\кпз\lab_1\program\obj\Debug\net8.0\program.pdb
+C:\Users\чупакабрпа\OneDrive\Desktop\кпз\lab_1\program\obj\Debug\net8.0\program.genruntimeconfig.cache
+C:\Users\чупакабрпа\OneDrive\Desktop\кпз\lab_1\program\obj\Debug\net8.0\ref\program.dll
+F:\KPZ\1\program\bin\Debug\net8.0\program.exe
+F:\KPZ\1\program\bin\Debug\net8.0\program.deps.json
+F:\KPZ\1\program\bin\Debug\net8.0\program.runtimeconfig.json
+F:\KPZ\1\program\bin\Debug\net8.0\program.dll
+F:\KPZ\1\program\bin\Debug\net8.0\program.pdb
+F:\KPZ\1\program\obj\Debug\net8.0\program.GeneratedMSBuildEditorConfig.editorconfig
+F:\KPZ\1\program\obj\Debug\net8.0\program.AssemblyInfoInputs.cache
+F:\KPZ\1\program\obj\Debug\net8.0\program.AssemblyInfo.cs
+F:\KPZ\1\program\obj\Debug\net8.0\program.csproj.CoreCompileInputs.cache
+F:\KPZ\1\program\obj\Debug\net8.0\program.dll
+F:\KPZ\1\program\obj\Debug\net8.0\refint\program.dll
+F:\KPZ\1\program\obj\Debug\net8.0\program.pdb
+F:\KPZ\1\program\obj\Debug\net8.0\program.genruntimeconfig.cache
+F:\KPZ\1\program\obj\Debug\net8.0\ref\program.dll
